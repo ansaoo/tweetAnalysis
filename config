@@ -1,0 +1,15 @@
+# access for Twitter API
+# consumerKey
+3Ax78wxvjlrboTUXx5eHnWayU
+# consumerSecret
+GVo6WDH1ay3vhuAeosICCskCQ1nV2VQN62ZZagqUV6DLRSn7Ah
+# accessTokenKey
+860356285191028736-DwOiGkvW1LGocxRweFnpS9XtlBNLEzM
+# accessTokenSecret
+JqeLKXi3Ej2o6dPhYiXAJVRmASRQc73P71ODKvkMFfEmb
+# mots recherchés séparés par une virgule
+poutine,macron,trump
+# chargement d'un kafka streaming
+false
+# topic kafka
+tweetstream
