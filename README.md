@@ -13,10 +13,15 @@
 Le fichier config est à renseigner.
 
 > \# access for Twitter API
+
 >  consumerKey
+
 > YOUR_CONSUMER_KEY
+
 > \# consumerSecret
+
 > YOUR_CONSUMER_SECRET
+
 > \# accessTokenKey
 > YOUR_ACCESS_TOKEN
 > \# accessTokenSecret
@@ -30,4 +35,6 @@ Le fichier config est à renseigner.
 
 ## Run
 
-> run.sh
+> sbt run 1
+
+> sbt run 2
