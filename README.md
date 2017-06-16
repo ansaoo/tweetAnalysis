@@ -12,20 +12,20 @@
 ## Configuration
 Le fichier config est à renseigner.
 
-> # access for Twitter API
-> # consumerKey
+> ### access for Twitter API
+> ### consumerKey
 > YOUR_CONSUMER_KEY
-> # consumerSecret
+> ### consumerSecret
 > YOUR_CONSUMER_SECRET
-> # accessTokenKey
+> ### accessTokenKey
 > YOUR_ACCESS_TOKEN
-> # accessTokenSecret
+> ### accessTokenSecret
 > YOUR_ACCESS_TOKEN_SECRET
-> # mots recherchés séparés par une virgule
+> ### mots recherchés séparés par une virgule
 > mot1,mot2,mot3
-> # chargement d'un kafka streaming producer
+> ### chargement d'un kafka streaming producer
 > false
-> # topic kafka
+> ### topic kafka
 > tweetstream
 
 ## Run
