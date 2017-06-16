@@ -12,16 +12,11 @@
 ## Configuration
 Le fichier config est à renseigner.
 
-> 
-  \# access for Twitter API
-  \# consumerKey
-
+> \# access for Twitter API
+> \# consumerKey
 > YOUR_CONSUMER_KEY
-
 > \# consumerSecret
-
 > YOUR_CONSUMER_SECRET
-
 > \# accessTokenKey
 > YOUR_ACCESS_TOKEN
 > \# accessTokenSecret
