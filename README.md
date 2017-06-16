@@ -12,7 +12,7 @@
 ## Configuration
 Le fichier config est à renseigner.
 
->  access for Twitter API
+>  access for Twitter API\\
 >  consumerKey
 > YOUR_CONSUMER_KEY
 >  consumerSecret
