@@ -30,6 +30,5 @@ Le fichier config est à renseigner.
 
 ## Run
 
-> sbt run 1
-
-> sbt run 2
+  sbt run 1
+  sbt run 2
