@@ -2,12 +2,12 @@
 
 ## Outils
 * Récupération de tweets
-** Spark Streaming Twitter 2.1.1
-** Python via Kafka
+    - Spark Streaming Twitter 2.1.1
+    - Python via Kafka
 * Analyse en Machine Learning
-** Spark ML 2.1.1 avec un modèle de Bayes
+    - Spark ML 2.1.1
 * Visualisation des données
-** Kibana
+    - Kibana
 
 ## Configuration
 Le fichier config est à renseigner.
